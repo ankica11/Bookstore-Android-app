@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/1 master/pki/va213355m_faza3/mobile/Perce/app/src/main/res/drawable/border3.xml" value="0.3769230769230769" />
+        <entry key="..\:/Perce/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22135416666666666" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/border.xml" value="0.3828125" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/border2.xml" value="0.3828125" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/border3.xml" value="0.3828125" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_account.xml" value="0.19791666666666666" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.3828125" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_baseline_chevron_right_24.xml" value="0.3828125" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.3769230769230769" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.19791666666666666" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_baseline_people_24.xml" value="0.3828125" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_baseline_person_add_alt_1_24.xml" value="0.19791666666666666" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_baseline_power_settings_new_24.xml" value="0.19791666666666666" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.3828125" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_baseline_star_outline_24.xml" value="0.3828125" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.19791666666666666" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_blue_star.xml" value="0.3828125" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_home.xml" value="0.3828125" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_profile.xml" value="0.3828125" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_promocija.xml" value="0.19791666666666666" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_recommended.xml" value="0.19791666666666666" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_right.xml" value="0.3828125" />
+        <entry key="..\:/Perce/app/src/main/res/drawable/ic_star.xml" value="0.19791666666666666" />
+        <entry key="..\:/Perce/app/src/main/res/layout/activity_about.xml" value="0.3319746376811594" />
+        <entry key="..\:/Perce/app/src/main/res/layout/activity_detalji.xml" value="0.33" />
+        <entry key="..\:/Perce/app/src/main/res/layout/activity_komentari.xml" value="0.36277173913043476" />
+        <entry key="..\:/Perce/app/src/main/res/layout/activity_korisnik.xml" value="0.2957427536231884" />
+        <entry key="..\:/Perce/app/src/main/res/layout/activity_licne_info.xml" value="0.3374094202898551" />
+        <entry key="..\:/Perce/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Perce/app/src/main/res/layout/activity_nalog.xml" value="0.2957427536231884" />
+        <entry key="..\:/Perce/app/src/main/res/layout/activity_opis.xml" value="0.36666666666666664" />
+        <entry key="..\:/Perce/app/src/main/res/layout/activity_preporuceno.xml" value="0.2957427536231884" />
+        <entry key="..\:/Perce/app/src/main/res/layout/activity_preporuci.xml" value="0.35280797101449274" />
+        <entry key="..\:/Perce/app/src/main/res/layout/activity_promena_lozinke.xml" value="0.3374094202898551" />
+        <entry key="..\:/Perce/app/src/main/res/layout/activity_promocije.xml" value="0.2957427536231884" />
+        <entry key="..\:/Perce/app/src/main/res/layout/dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Perce/app/src/main/res/layout/dialog_komentar.xml" value="0.35778985507246375" />
+        <entry key="..\:/Perce/app/src/main/res/layout/item_knjiga.xml" value="0.2957427536231884" />
+        <entry key="..\:/Perce/app/src/main/res/layout/item_komentar.xml" value="0.36277173913043476" />
+        <entry key="..\:/Perce/app/src/main/res/layout/item_preporuci.xml" value="0.35280797101449274" />
+        <entry key="..\:/Perce/app/src/main/res/layout/item_preporuka.xml" value="0.3428442028985507" />
+        <entry key="..\:/Perce/app/src/main/res/layout/item_promocija.xml" value="0.3319746376811594" />
+        <entry key="..\:/Perce/app/src/main/res/layout/main_nav_drawer.xml" value="0.2957427536231884" />
+        <entry key="..\:/Perce/app/src/main/res/layout/main_toolbar.xml" value="0.2957427536231884" />
+        <entry key="..\:/Perce/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

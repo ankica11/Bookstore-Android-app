@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+
+        android:layout_marginLeft="10dp"
+        android:gravity="center">
+
+
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:fontFamily="sans-serif-condensed"
+            android:gravity="center"
+            android:text="O nama"
+            android:textSize="25dp"
+
+
+            />
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/retouchpero" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="200dp"
+        android:src="@drawable/perce4"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Perce postoji već 20 godina. Naš lanac knjižara obuhvata više od 100 objekata širom Srbije. Ove godine dostigli smo neverovatnu brojku od 500.000 vernih članova čitalaca. Veliki doprinos našem razvoju u poslednjih 5 godina ostvarila je i naša rado i često posećena web aplikacija. Svakako ništa od ovoga ne bi bilo moguće da nije našeg velikog i složnog tima, koji čine kako rukovodstvo, menadžeri, marketing stručnjaci, tako i veliki broj radnika u knjižarama na 100 različitih lokacija. Hvala vam na poverenju i drago nam je što ste toliko godina i vi deo naše male bajke!"
+        android:fontFamily="sans-serif-condensed"
+        android:justificationMode="inter_word"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:textStyle="italic"
+        android:textSize="16dp"
+        />
+
+
+
+</LinearLayout>

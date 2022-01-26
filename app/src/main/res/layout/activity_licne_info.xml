@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LicneInfoActivity"
+    android:orientation="vertical"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lične informacije"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="30dp"
+        />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:src="@drawable/acc"
+        android:layout_marginBottom="10dp"
+        />
+    <TextView
+        android:id="@+id/username_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\@ankica1119999"
+        android:gravity="center"
+        android:layout_marginBottom="40dp"
+        android:textStyle="italic"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        >
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Korisnik"
+            android:id="@+id/ime_info"
+            android:layout_weight="1"
+            android:drawableLeft="@drawable/ic_name"
+            android:drawablePadding="10dp"
+            android:layout_marginRight="10dp"
+            android:textColor="#999999"
+            />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Korisnikovic"
+            android:layout_weight="1"
+            android:id="@+id/prezime_info"
+            android:textColor="#999999"
+            android:layout_marginLeft="10dp"
+            />
+
+    </LinearLayout>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Adresa"
+        android:id="@+id/adresa_info"
+        android:drawableLeft="@drawable/ic_baseline_location_on_24"
+        android:drawablePadding="10dp"
+        android:textColor="#999999"
+        android:layout_marginTop="10dp"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kontakt telefon"
+        android:id="@+id/telefon_info"
+        android:drawableLeft="@drawable/ic_baseline_local_phone_24"
+        android:drawablePadding="10dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#999999"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Promeni"
+        android:layout_marginTop="50dp"
+        android:onClick="promeni"
+        />
+
+
+</LinearLayout>

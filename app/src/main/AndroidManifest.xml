@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.perce">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Knjižara Perce"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Perce">
+        <activity
+            android:name=".AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PromenaLozinkeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LicneInfoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PreporuciActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KomentariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OpisActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetaljiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PromocijeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PreporucenoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NalogActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KorisnikActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+     <LinearLayout
+
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+
+        android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Naslov knjige"
+        android:textSize="25dp"
+        android:gravity="center"
+        android:fontFamily="sans-serif-condensed"
+        android:id="@+id/naslov_opis"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Autor knjige"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:fontFamily="sans-serif-condensed"
+        android:id="@+id/autor_opis"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:text="Opis knjige"
+        android:textSize="16dp"
+        android:gravity="center"
+        android:fontFamily="sans-serif-condensed"
+        android:id="@+id/opis"
+        android:justificationMode="inter_word"
+        android:layout_marginTop="20dp"
+        />
+
+
+
+
+
+</LinearLayout>
+</ScrollView>
