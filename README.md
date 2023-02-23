@@ -1,5 +1,10 @@
 ## Design 
 https://www.figma.com/file/tWb4kx0M9NrNH7SwAs0ibi/Prototip?node-id=40%3A151
+
+![tw1](https://user-images.githubusercontent.com/76231958/221021744-5c495243-5c58-4351-a3d0-6f5e68439186.jpg)
+![tw2](https://user-images.githubusercontent.com/76231958/221021745-522af687-6770-4f2f-befc-99f5f6073170.jpg)
+![tw3](https://user-images.githubusercontent.com/76231958/221021748-802af8c2-83e2-4714-8f65-93bf56a4581e.jpg)
+![tw4](https://user-images.githubusercontent.com/76231958/221021751-168ee166-3249-483b-a69f-3d9ba89e4f5b.jpg)
 ![2021-11-21 (1)](https://user-images.githubusercontent.com/76231958/221018579-1dadd8af-7649-4af3-9155-27789f0263e5.png)
 ![2022-01-14](https://user-images.githubusercontent.com/76231958/221018963-8e322ce6-dc41-4f91-9283-4faeeb3d3602.png)
 ![2022-01-20 (1)](https://user-images.githubusercontent.com/76231958/221018968-1380eab7-82bf-4e95-b630-b204cbbfc6f1.png)
