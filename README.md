@@ -1,3 +1,23 @@
+# Bookstore Mobile Application
+This project is a bookstore mobile application developed using Android (Java) and Android Studio, featuring distinct roles for users and bookstore workers.
+
+## User Features:
+
+- Browse all available books
+- View detailed information about selected books, including a comment section and ratings
+- Rate and recommend books to friends who are also authenticated users
+- View recommendations from friends
+- See books on promotion
+- Basic account management functions
+
+## Bookstore Worker Features:
+
+- Add new books to the inventory with detailed information and images
+- Manage book descriptions, promotions, and sales
+- Basic account management functions
+
+The UI is designed based on a layout previously created in Figma, ensuring a user-friendly and visually appealing experience.
+
 ## Design 
 https://www.figma.com/file/tWb4kx0M9NrNH7SwAs0ibi/Prototip?node-id=40%3A151
 
